@@ -23,10 +23,10 @@
     </li>
 </ul>
 
-      <video controls="controls" id="demo">
-        <source src="GiphyAppLiveDemo.io/giphydemo.mov" />
-      </video>
-  <h2>How To Get Started</h2>
+<h2>Live Demo</h2>
+      Go here: <a href="https://developers.giphy.com/](https://la-abdi25.github.io/GiphyAppLiveDemo.io/">Click Here to View</a></li>  
+      
+<h2>How To Get Started</h2>
 <ol>
   <li>git clone git@github.com:la-abdi25/GiphyPartyApp.git</li>
   <li>Go to Giphy Developers here: <a href="https://developers.giphy.com/">Click Here</a></li>
