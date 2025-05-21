@@ -25,7 +25,17 @@
 
 <h2>How To Get Started</h2>
 <ol>
+  <li>git clone git@github.com:la-abdi25/GiphyPartyApp.git</li>
   <li>Go to Giphy Developers here: <a href="https://developers.giphy.com/">Click Here</a></li>
+  <li>Sign in or Create an Account</li>
+  <li>Go to Account Settings</li>
+  <li>Click Support </li>
+  <li>Click API</li>
+  <li>Giphy API</li>
+  <li>Request A GIPHY API Key</li>
+  <li>Once you have the API key, go to the index.js file and replace where 
+  it says const giphyApiKey = "YOUR_API_KEY";</li>
+  <li>Finally, run the index.html file in the browser of your choice</li>
 </ol>
 
 
