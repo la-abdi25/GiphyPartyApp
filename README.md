@@ -25,7 +25,7 @@
 
 <h2>Demo</h2>
 <video width="320" height="240" controls>
-  <source src="giphydemo.mov" type="video/mp4">
+  <source src="giphydemo.mov" type="video/mov">
 </video>
   
   <h2>How To Get Started</h2>
