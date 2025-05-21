@@ -25,7 +25,7 @@
 
 <h2>How To Get Started</h2>
 <ol>
-  <li>Go to Giphy Developers here: [<](https://developers.giphy.com/)/li>
+  <li>Go to Giphy Developers here: <a href="https://developers.giphy.com/)">Click Here</a>/li>
 </ol>
 
 
