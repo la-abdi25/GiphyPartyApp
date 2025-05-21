@@ -23,6 +23,9 @@
     </li>
 </ul>
 
+      <video controls="controls" id="demo">
+        <source src="GiphyAppLiveDemo.io/giphydemo.mov" />
+      </video>
   <h2>How To Get Started</h2>
 <ol>
   <li>git clone git@github.com:la-abdi25/GiphyPartyApp.git</li>
