@@ -23,7 +23,6 @@
     </li>
 </ul>
 
-<h2>Demo</h2>
   <h2>How To Get Started</h2>
 <ol>
   <li>git clone git@github.com:la-abdi25/GiphyPartyApp.git</li>
