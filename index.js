@@ -1,7 +1,7 @@
 // Giphy API key //
 
 //external source, Giphy API
-const giphyApiKey = "MhAodEJIJxQMxW9XqxKjyXfNYdLoOIym";
+const giphyApiKey = "";
 //DOM manipulation
 const gifBtn = document.getElementById("gif-button");
 const gifInput = document.getElementById("gif-input");
