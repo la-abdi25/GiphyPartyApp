@@ -24,8 +24,8 @@
 </ul>
 
 <h2>Demo</h2>
-
-<h2>How To Get Started</h2>
+<video controls width="250">
+  <source src="giphydemo.mov" type="video/mov" /><h2>How To Get Started</h2>
 <ol>
   <li>git clone git@github.com:la-abdi25/GiphyPartyApp.git</li>
   <li>Go to Giphy Developers here: <a href="https://developers.giphy.com/">Click Here</a></li>
