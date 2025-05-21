@@ -24,10 +24,9 @@
 </ul>
 
 <h2>Demo</h2>
-<video width="320" height="240" controls>
-  <source src="giphydemo.mov" type="video/mov">
+<video controls="controls" width="800" height="600" name="Video Name">
+  <source src="giphydemo.mov">
 </video>
-  
   <h2>How To Get Started</h2>
 <ol>
   <li>git clone git@github.com:la-abdi25/GiphyPartyApp.git</li>
