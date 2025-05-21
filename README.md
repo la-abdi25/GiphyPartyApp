@@ -23,6 +23,8 @@
     </li>
 </ul>
 
+<h2>Demo</h2>
+
 <h2>How To Get Started</h2>
 <ol>
   <li>git clone git@github.com:la-abdi25/GiphyPartyApp.git</li>
@@ -37,5 +39,12 @@
   it says const giphyApiKey = "YOUR_API_KEY";</li>
   <li>Finally, run the index.html file in the browser of your choice</li>
 </ol>
+
+<h2>How to use the App</h2>
+<ul>
+  <li>Enter a search term</li>
+  <li>Click Search Giphy</li>
+  <li>Click Remove Gifs to clear all gifs from web page</li>
+</ul>
 
 
