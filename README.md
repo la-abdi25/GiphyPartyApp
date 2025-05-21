@@ -24,7 +24,7 @@
 </ul>
 
 <h2>Live Demo</h2>
-      Go here: <a href="https://developers.giphy.com/](https://la-abdi25.github.io/GiphyAppLiveDemo.io/">Click Here to View</a></li>  
+      Go here: <a href="https://la-abdi25.github.io/GiphyAppLiveDemo.io/">Click Here to View</a></li>  
       
 <h2>How To Get Started</h2>
 <ol>
