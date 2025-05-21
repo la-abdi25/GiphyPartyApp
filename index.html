@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Giphy Party</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main>
+      <h1>Giphy Party</h1>
+      <div class="main-div">
+        <!-- Giphy Form  -->
+        <form id="gif-form">
+          <!-- read user input for a search term -->
+          <input
+            type="text"
+            id="gif-input"
+            placeholder="Search for a giph...ex: hilarious"
+          />
+          <!-- searching and adding gifs button  -->
+          <button id="gif-button">Search Giphy</button>
+        </form>
+        <!-- removing all gifs button -->
+        <button id="remove">Remove Gifs</button>
+      </div>
+      <div id="add-gif">
+        <!-- Displaying Gifs Here -->
+      </div>
+    </main>
+    <footer>Copyright &copy; 2025 Ladan Abdi. All Rights Reserved.</footer>
+    <!-- Import Axios for Giphy API data retrieval-->
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="index.js"></script>
+  </body>
+</html>
