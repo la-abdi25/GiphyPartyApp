@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-<h3>An interactive app that allows users to search for a gif and dynamically displays GIF on web page built using HTML5, CSS3, and JavaScript(ES6+).</h3>
+<h3>An interactive app that allows users to search for a gif and dynamically displays GIF on web page built using HTML5, CSS3, and JavaScript(ES6+)</h3>
 
 <h2>Features</h2>
 <h3>Allows users to search for GIFs by keyword of choice, and remove all gifs</h3>
